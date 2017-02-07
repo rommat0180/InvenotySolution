@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <configSections>
+    <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <section name="Inventory.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+    </sectionGroup>
+    <!-- For more information on Entity Framework configuration, visit http://go.microsoft.com/fwlink/?LinkID=237468 -->
+    <section name="entityFramework" type="System.Data.Entity.Internal.ConfigFile.EntityFrameworkSection, EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" requirePermission="false" />
+  </configSections>
+  <startup>
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2" />
+  </startup>
+  <connectionStrings>
+    <add name="inventorysolution" connectionString="Data Source=.\SQLEXPRESS;Initial Catalog=inventorysolution;Integrated Security=True;Pooling=False" />
+    <add name="Inventory.Properties.Settings.inventorysolutionConnectionString" connectionString="Data Source=.\SQLEXPRESS;Initial Catalog=inventorysolution;Integrated Security=True" providerName="System.Data.SqlClient" />
+    
+    <add name="inventorysolution" connectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename='|DataDirectory|\DB\inventorysolution.mdf';Integrated Security=True" providerName="System.Data.SqlClient" />
+    <add name="Inventory.Properties.Settings.inventorysolutionConnectionString" connectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename='|DataDirectory|\DB\inventorysolution.mdf';Integrated Security=True" providerName="System.Data.SqlClient" />
+
+  
+  </connectionStrings>
+  <userSettings>
+    <Inventory.Properties.Settings>
+      <setting name="UserId" serializeAs="String">
+        <value>0</value>
+      </setting>
+      <setting name="Username" serializeAs="String">
+        <value>""</value>
+      </setting>
+    </Inventory.Properties.Settings>
+  </userSettings>
+  <entityFramework>
+    <defaultConnectionFactory type="System.Data.Entity.Infrastructure.SqlConnectionFactory, EntityFramework" />
+    <providers>
+      <provider invariantName="System.Data.SqlClient" type="System.Data.Entity.SqlServer.SqlProviderServices, EntityFramework.SqlServer" />
+    </providers>
+  </entityFramework>
+</configuration>

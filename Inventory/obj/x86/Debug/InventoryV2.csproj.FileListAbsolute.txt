@@ -1,0 +1,13 @@
+C:\Users\admin\Documents\Visual Studio 2015\Projects\InventorySolution\Inventory\bin\Debug\WindowsApplication.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\InventorySolution\Inventory\obj\x86\Debug\InventoryV2.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\InventorySolution\Inventory\obj\x86\Debug\Inventory.AddNewOrder.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\InventorySolution\Inventory\obj\x86\Debug\Inventory.AddProductBrand.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\InventorySolution\Inventory\obj\x86\Debug\Inventory.AddToStock.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\InventorySolution\Inventory\obj\x86\Debug\Inventory.InventoryParent.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\InventorySolution\Inventory\obj\x86\Debug\Inventory.Orders.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\InventorySolution\Inventory\obj\x86\Debug\Inventory.ProductsBrandsList.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\InventorySolution\Inventory\obj\x86\Debug\InventoryV2.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\InventorySolution\Inventory\obj\x86\Debug\Inventory.Stock.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\InventorySolution\Inventory\obj\x86\Debug\Inventory.TestForm1.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\InventorySolution\Inventory\obj\x86\Debug\Inventory.Vender.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\InventorySolution\Inventory\obj\x86\Debug\InventoryV2.csproj.GenerateResource.Cache
